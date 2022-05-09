@@ -16,7 +16,7 @@ There are template repos to help us do this:
 We are (over 2022) building a module project for each module. These will be named like this:
 - https://github.com/CodeYourFuture/Module-Name-Module-Project
 - https://github.com/CodeYourFuture/Module-Name-Module-Project-Solution
-
+*
 ### Git 
 - [Coursework](https://github.com/CodeYourFuture/Git-CLI-Coursework) | ??
 ### HTML-CSS
